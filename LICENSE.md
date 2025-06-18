@@ -1,7 +1,9 @@
-"Non-Commercial Commons License"
+### Non-Commercial Commons License
 Version 1.0 | Source-Available, Non-Commercial
 
-Copyright © [date], [your name]
+Copyright © [year], [your name]
+
+<br>
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
