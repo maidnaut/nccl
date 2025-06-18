@@ -3,5 +3,7 @@ The NCCL is a software license drafted by [Cosmic Arp](https://cosmicarp.com). I
 
 You are free to modify this license for your own usecase, calling it a "Modificed NCCL".
 
+Copy it [here](https://raw.githubusercontent.com/maidnaut/nccl/refs/heads/main/LICENSE.md).
+
 # About
-Read about the NCCL and its purpose on the (FAQ)[faq]
+Read about the NCCL, its purpose, and a more in depth explanation on it in the [FAQ](https://github.com/maidnaut/nccl/wiki/FAQ).
